@@ -1,5 +1,6 @@
 
-### Olá me eu sou o Isaque Fraga Zani 👋
+### Olá eu sou o Isaque Fraga Zani. Seja bem vindo a nova era ![image](https://github.com/isaquefragazani/devzani/assets/93746936/3b6bb7c4-b0ed-4bdd-b156-bbd6e2125ded)
+ 👋
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee)](https://github.com/isaquefragazani/devzani)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/isaquefzani?igshid=MzNlNGNkZWQ4Mg==)
